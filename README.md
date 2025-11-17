@@ -355,6 +355,7 @@ If you find our work useful, please cite our paper as:
 |    FinTral     | [FinTral: Financial Translation and Analysis](https://arxiv.org/abs/2402.10986) |         [Github](https://github.com/UBC-NLP/fintral)         |
 |  Open-FinLLMs  | [Open-FinLLMs: Open Financial Large Language Models](https://arxiv.org/abs/2408.11878) | [Hugging Face](https://huggingface.co/collections/TheFinAI/open-finllms-66b671f2b4958a65e20decbe) |
 |    FinGAIA     | [FinGAIA: Financial AI Assistant](https://arxiv.org/abs/2507.17186) |     [Github](https://github.com/SUFE-AIFLM-Lab/FinGAIA)      |
+|    PRBench     | [PRBench: Large-Scale Expert Rubrics for  Evaluating High-Stakes Professional  Reasoning](https://arxiv.org/abs/2511.11562) |  [Project Page](https://scale.com/research/prbench)  |
 
 #### Healthcare & Medical Science
 
